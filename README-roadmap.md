@@ -1,16 +1,22 @@
-
-start from bible
-
-
-start from song 
+cyper adventure 
 
 
-start from celebrity
+* start from bible
 
 
-start from game
+* start from song 
 
 
-join a public adventure room
+* start from celebrity
+名人八卦的解读
 
-share a public adventure room
+* start from game
+游戏角色故事的二创和解读
+
+* start from build in public
+从点子到实现的过程
+
+
+* join a public adventure room
+
+* share a public adventure room
