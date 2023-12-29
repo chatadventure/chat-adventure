@@ -1,3 +1,6 @@
+Adventures must be shared.Join AI Adventures with us
+
+
 cyper adventure 
 
 My little sister and I share a ChatGPT account and this is what I see when I log in this morning
