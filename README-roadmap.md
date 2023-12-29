@@ -17,6 +17,9 @@ cyper adventure
 从点子到实现的过程
 
 
+you can either join or just leave comment or like /dislike on specific chat 
+
+
 * join a public adventure room
 
 * share a public adventure room
